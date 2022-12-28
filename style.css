@@ -1,0 +1,21 @@
+ img { 
+    
+    background-size: cover ;
+    width: max-content;
+    height: max-content;
+      
+ }
+ 
+.header  {
+    background-color: yellow;
+    text-align-last: center;
+}
+
+.navigation {
+    text-align: center;
+    color: aqua;
+    
+}
+.center {
+    text-align: center;
+}
